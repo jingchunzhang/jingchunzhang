@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jingchunzhang
 - 👀 I’m interested in backend system design & code, c/c++/go/python
-- 💞️ I’m looking to remote job
+- 💞️ I’m looking for remote job
 - 📫 How to reach me : danezhang77@gmail.com
 
 <!---
